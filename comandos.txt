@@ -1,0 +1,2 @@
+PS C:\xamppp\htdocs\DAW> cd symfony
+PS C:\xamppp\htdocs\DAW\symfony> composer create-project symfony/framework-standard-edition proyecto2
