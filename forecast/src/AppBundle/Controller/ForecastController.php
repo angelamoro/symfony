@@ -14,3 +14,4 @@ class ForecastController extends Controller
         return new Response ('It\'s freezing cold!');
     }
 }
+?>
